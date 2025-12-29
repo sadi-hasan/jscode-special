@@ -2,8 +2,11 @@ console.log("SADI")
 let a='"SADI" is ist',b="doll is made of plastic",c="wolf",d=123.0055
 console.log(a.length)
 console.log(b.length)
+
 console.log(c.length)
-console.log(typeof(b))
+
+console.log(c.length)
+    console.log(typeof(b))
 console.log(typeof(d))
 //indexOf
 console.log(a.indexOf("S"))
