@@ -1,0 +1,52 @@
+cd curriculum
+git branch
+git branch -d master
+git branch -D master
+delete message
+echo "# activity" >> README.md
+git init
+git add README.md
+git lfs
+5149-
+git status
+git clone https://github.com/sadi-hasan/jscode.git
+sadi43858@gmail.com
+sadihasanece@gmail.com
+js is powerful
+5162-vscode.dev
+123456
+Device Name	DESKTOP-7CS3COD
+Processor	AMD Ryzen 3 3200G with Radeon Vega Graphics       3.60 GHz
+Installed RAM	8.00 GB (5.95 GB usable)
+Storage	112 GB SSD TS120GMTS820S
+Graphics Card	AMD Radeon(TM) Vega 8 Graphics (2 GB)
+Device ID	AEAB8AD9-9E47-4F07-A4AF-1AD91031F19F
+Product ID	00331-10000-00001-AA523
+System Type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+5227-
+"D:\Ananda Computers"
+
+Method 1
+
+Step 1- Right-click the file and select properties.
+Step 2- Click the read only checkbox and click apply then ok.
+
+Method 2
+
+Step 1- Right-click the file and select properties.
+Step 2- Click the Security tab.
+Step 3- Click edit to add or remove a group or username.
+Step 4- Check specific permissions for each user.
+Step 5- Click advanced to change special permissions.
+Step 6- Click disable inheritance then remove all inherited permissions.
+Step 7- Click Add.
+Step 8- Click select a principal.
+Step 9- Type the user name and click check names.
+Step 10- Check the basic and advanced permissions you want for the user.
+Step 11- Click OK then select apply.
+
+Would you like me to help you write a voiceover script for these steps in the Techie Dialogue style?
+h_wlH49l*hhhhhh
+h_wlH49l*hhhh
